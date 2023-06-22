@@ -1,0 +1,23 @@
+{
+    "name": "datumsquare/social-share",
+    "description": "Create posts on social platforms",
+    "type": "library",
+    "require": {
+        "php": "^8.1",
+        "joelbutcher/facebook-graph-sdk": "6.x-dev",
+        "illuminate/support": "11.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Datumsquare\\SocialShare\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Salman",
+            "email": "salman.h@allshorestaffing.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
