@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Datumsquare\\SocialShare\\": "src/"
+            "Datumsquare\\SocialShare\\": "src"
         }
     },
     "authors": [
@@ -29,5 +29,6 @@
             "email": "salman.h@allshorestaffing.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
