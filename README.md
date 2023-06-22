@@ -2,6 +2,8 @@
 
 Create posts for various social platforms such as Twitter and Facebook. This package offers a user-friendly facade that allows you to effortlessly generate new posts without the need for complex coding.
 
+`composer require datumsquareit/social-share`
+
 ## Package Configuration
 
 To run this project, you will need to add the following environment variables to your `.env` file and configuration in `app/services.php`
