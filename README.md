@@ -6,7 +6,7 @@ Create posts for various social platforms such as Twitter and Facebook. This pac
 
 To run this project, you will need to add the following environment variables to your `.env` file and configuration in `app/services.php`
 
-```
+```php
 'facebook' => [
         'client_id' => env('FACEBOOK_APP_ID', ''),
         'client_secret' => env('FACEBOOK_APP_SECRET', ''),

@@ -5,7 +5,7 @@
     "require": {
         "php": "^8.1",
         "joelbutcher/facebook-graph-sdk": "6.x-dev",
-        "illuminate/support": "11.x-dev"
+        "illuminate/support": "10.13.5"
     },
     "license": "MIT",
     "autoload": {
