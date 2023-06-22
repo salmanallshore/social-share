@@ -29,6 +29,6 @@
             "email": "salman.h@allshorestaffing.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
